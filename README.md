@@ -9,3 +9,14 @@ Este projeto consiste em validar as **funcionalidades** do github ao utilizar o 
 ###### Melhorias do projeto
 
 O projeto foi melhorado a partir das funcionalidades x, y e z.
+
+
+###
+
+Linguagens utilizadas no projeto
+
+* HTML
+* CSS
+* MYSQL
+* PHP
+* NODE.JS
