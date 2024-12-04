@@ -56,3 +56,9 @@ fucntion soma (a,b){
 }
 
 ```
+
+## Lista de tarefas
+
+- [X] Area de membros
+- [ ] Carrinho de compras
+- [X] Função finalizada
