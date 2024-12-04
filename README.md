@@ -46,3 +46,13 @@ O projeto foi melhorado a partir das funcionalidades x, y e z.
 
 #### Contribuidor principal
 Link: https://github.com/Nikolas1984
+
+## codigo da função Soma
+
+``` Javascript
+
+fucntion soma (a,b){
+    return a + b;
+}
+
+```
