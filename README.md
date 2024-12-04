@@ -29,6 +29,9 @@ O projeto foi melhorado a partir das funcionalidades x, y e z.
 3. Are de clientes
 4. Home
 
-### Teste de imagens
+### Teste de imagen local
 
 ![Ralsei](imgs/fluffy%20boy.png)
+
+### Teste de imagem externa
+![Kris](https://static.wikia.nocookie.net/deltarunebrasil/images/3/34/Kris.png/revision/latest?cb=20181106233841&path-prefix=pt-br)
