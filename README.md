@@ -11,12 +11,17 @@ Este projeto consiste em validar as **funcionalidades** do github ao utilizar o 
 O projeto foi melhorado a partir das funcionalidades x, y e z.
 
 
-###
-
-Linguagens utilizadas no projeto
+### Linguagens utilizadas no projeto
 
 * HTML
 * CSS
 * MYSQL
 * PHP
 * NODE.JS
+
+## Funcionlidades a serem feitas
+
+1. Area de compras
+2. Area de pagamento
+3. La ele
+4. Home
